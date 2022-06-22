@@ -1,4 +1,2 @@
-name = input("Как ваше имя? :")
-count = input("Сколько раз умножить? :")
-
-print(name * int(count))
+import calendar
+print( calendar.month(2022, 6))
